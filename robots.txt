@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationchulavista.com/sitemap.xml
